@@ -32,7 +32,7 @@ gesture, domestic, relation, sensor, feedback, soft
 
 gesture : walking, stepping out, sneaking, patroling, fetching, standing, opening doors
 domestic : avoiding, mesuring, shunning, eluding, evading
-relation : alerting, warning, caution,
+relation : alerting, warning, caution
 sensor : movement, sound, light, infrared camera
 feedback : sound intensity measuring, light, movement, displaying, vibrating
-soft : eff up squid, turtle or snail based on the shell part that serves as a refuge for them to hide from the gaze of random encounters of dangerous roommates
+soft : tortoise, snail or armadillo based on the shell part that serves as a refuge for them to hide, in our case from the gaze of random encounters like dangerous roommates
