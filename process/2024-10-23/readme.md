@@ -33,7 +33,7 @@ Designing a soft robots around domestic space while escaping the domestic space 
 
 # A link between worlds
 Nevertheless, every category could be linked to one robot whose purpose is to serve as an intermediary between you and your RM
-Similarly to a turn based RPG the robot could alow you to choose an "action" depending on your mood or curent desires.
-You would be able to "attack", "Shield", "heal" or "escape"
+Similarly to a turn based RPG the robot could alow you to choose an "action" command depending on your mood or curent desires.
+You would be able to "attack", "Shield", "heal" or "escape".
 
 ![Screenshot](5319.png)
