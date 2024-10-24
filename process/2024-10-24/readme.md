@@ -5,11 +5,30 @@ Similarly to a turn based RPG the robot could alow you to choose an "action" dep
 You would be able to "attack", "Shield", "heal" or "escape".
 
 ## Attack command 🗡️ :
+- draw ennemy closer to make them allies
+- enables conversation, makes it easier to interact
 - 
 
-
 ## Shield command 🛡️ :
+- alement that makes you undetected
+- 
 
 ## Heal command ⚕️ :
+- recharging social battery
+- practice meditaion
 
 ## Escape command 🏃💨 :
+- allowing your self to run away/retrieve/hide
+
+# Inputs
+## 🗡️
+## 🛡️
+## ⚕️
+## 🏃💨
+
+# Outputs
+## 🗡️
+## 🛡️
+## ⚕️
+Sound (heartbeat, relaxing melody)
+## 🏃💨
