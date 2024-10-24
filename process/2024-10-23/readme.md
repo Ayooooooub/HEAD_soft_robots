@@ -28,6 +28,12 @@ The notion of time is quite relevent too. When you find your self outside, every
 At first, twas about planning and trying to be more efficient. Then it went a bit further and approached the matter of rights depending on conditions. Like RM could be allowed to setp out of their rooms at certain time depending on something, gaining time bonuses based on how good they are doing.
 
 Eventually thanks to my comrades I found out that managing my routine to spend less time in common spaces to avoid my RM was a way to "escape" and led to a metaphor of "surviving".
-Furthermore, having the urge to spend time outside of the flat 
+Furthermore, having the urge to spend time outside would mean that the problem is the flat it self but then what to do?
+Designing a soft robots around domestic space while escaping the domestic space is an interesting concept.
+
+# A link between worlds
+Nevertheless, every category could be linked to one robot whose purpose is to serve as an intermediary between you and your RM
+Similarly to a turn based RPG the robot could alow you to choose an "action" depending on your mood or curent desires.
+You would be able to "attack", "Shield", "heal" or "escape"
 
 ![Screenshot](5319.png)
