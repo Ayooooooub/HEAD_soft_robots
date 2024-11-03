@@ -14,3 +14,4 @@ The device lets you know from the safety of your room if your roommates are near
 # Prototype
 
 # Storyboard
+![Screenshot](echo_armadillo_storyboard.png)

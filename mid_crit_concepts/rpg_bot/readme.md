@@ -17,3 +17,4 @@ To summarize, with "RPG bot" depending on the situation you will be able to shif
 # Prototype
 
 # Storyboard
+![Screenshot](turf_war_storyboard.png)
