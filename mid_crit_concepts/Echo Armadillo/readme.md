@@ -1,3 +1,6 @@
+## Brief field research summary
+After reflecting on my lifestyle in my personal space, I found myself concerned on an unusual topic more than I should: 'How to avoid your roommates.' Indeed, some people live in shared flats with others, but sometimes (most of the time), they just don’t want to interact with them. Accordingly, my research became fixated on ways to prevent or bypass these interactions by any means.
+
 # Echo Armadillo
 A soft robot resembling an armadillo, it detects movement and sound from the other side of the door. When it senses someone nearby, it curls up, signaling that your roommates are out of their rooms.
 
