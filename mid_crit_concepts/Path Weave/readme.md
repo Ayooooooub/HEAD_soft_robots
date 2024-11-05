@@ -1,3 +1,6 @@
+## Brief field research summary
+After reflecting on my lifestyle in my personal space, I found myself concerned on an unusual topic more than I should: 'How to avoid your roommates.' Indeed, some people live in shared flats with others, but sometimes (most of the time), they just don’t want to interact with them. Accordingly, my research became fixated on ways to prevent or bypass these interactions by any means.
+
 # Path Weave
 An adaptable map that visually represents your living space, illuminating in real time the paths your roommates take, helping you stay informed about the occupancy of shared areas.
 
@@ -18,4 +21,4 @@ The device is an adaptable map that is a physical representation of the common s
 ![Screenshot](IMG_5361.png)
 
 # Storyboard
-![Screenshot](path_weave_storyboard.png)
+![Screenshot](sbpw.png)

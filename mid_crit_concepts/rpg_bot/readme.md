@@ -21,4 +21,4 @@ The bottle-like robot, connected to your headset, would change color to signal y
 ![Screenshot](IMG_5356.png)
 
 # Storyboard
-![Screenshot](turf_war_storyboard.png)
+![Screenshot](sbrpgb.png)
