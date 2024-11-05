@@ -1,9 +1,9 @@
 # RPG bot
 A metaphor of social interactions navigation in shared living spaces. It shape-shifts through 4 forms :
--Attack, allowing you to transform conflict or avoidance into connection, making interaction easier when you're ready for it.
--Shield, simulates a bubble, create space for privacy.
--Heal, that permits you to recharge your social battery, regain mental peace.
--Escape, allows safe retreat from uncomfortable situations or unwanted interactions.
+- Attack, allowing you to transform conflict or avoidance into connection, making interaction easier when you're ready for it.
+- Shield, simulates a bubble, create space for privacy.
+- Heal, that permits you to recharge your social battery, regain mental peace.
+- Escape, allows safe retreat from uncomfortable situations or unwanted interactions.
 
 ## Keywords
 - confrontation
