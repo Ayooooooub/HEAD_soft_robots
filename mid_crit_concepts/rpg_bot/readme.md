@@ -1,4 +1,4 @@
-# RPG bot
+# Role Playing Rythm
 A metaphor of social interactions navigation in shared living spaces. It shape-shifts through 4 forms :
 - Attack, allowing you to transform conflict or avoidance into connection, making interaction easier when you're ready for it.
 - Shield, simulates a bubble, create space for privacy.
