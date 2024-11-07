@@ -17,9 +17,11 @@ Observation of my daily avoidance tactics:
 
 - Noting the techniques I employ to avoid interaction, like avoiding eye contact, wearing headphones, pretending to go to the bathroom, or quietly staying in my room.
 - Listing the different senses I rely on throughout the day, such as sight, hearing, and smell.
+
 ![Screenshot](20.59.14.png)
 
 - Creating a timeline to track which senses I use at specific times, identifying patterns and moments of heightened awareness.
+
 ![Screenshot](23.13.32.png)
 
 - Mapping my flat to identify the riskiest areas, based on my roommates' paths compared to mine, and pinpointing where my senses come into play to avoid contact.
