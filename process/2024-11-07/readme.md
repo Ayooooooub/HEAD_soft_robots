@@ -66,3 +66,5 @@ Here’s the breakdown:
 3. **Orientation and Migration**: Magnetoreception helps animals stay on course during migrations or when traveling through unfamiliar terrain. For example, sea turtles can find their way back to the exact beach where they were born, and birds can follow invisible magnetic "roads" in the sky.
 
 Magnetoreception is still a bit of a mystery to scientists, but it’s clear that it gives certain animals a unique, sixth sense for navigation!
+
+![Screenshot](Screenshot16.49.49.png)
