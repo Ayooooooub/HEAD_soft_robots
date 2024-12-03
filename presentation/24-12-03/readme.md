@@ -2,31 +2,40 @@
 - Soft Robots
 - Master Media Design + O2R
 
-## Project title 
-Think a simple, straightforward title, can also be poetic or playful but keep it short. 
-
-## Research Question / area of research
+## Whispers
 How can I relieve myself from potential encounters with my roommates in our shared flat? How can I avoir them when I feel like I dont want to see them
 
 ## Pitch
 My flower device signals if roommates are in shared spaces, it closes when detected, vibrates for crowds.
 
-+ Key visual (from your 3D renderings or your paper prototypes)
-+ Optional second visual
+![Screenshot](IMG_5543.png)
+
 
 ## Prototyping research
-Describe in a short paragraph (~500 chars) the research that you have conducted around your prototypes. What were your intentions? What are the several forms you looked into? What were the different interactions you tried? Illustrate each method with corresponding photo, sketches, audio, movies, 3D visuals etc. You can put a lot of elements here, but please curate the most illustrative materials.
+I first explored various opening mechanisms to metaphorize states of safety and danger, starting with a flower and experimenting with more abstract designs. I also studied how fruits peel or open. Ultimately, I returned to the flower prototype, as it resonated most with the people I showed it to. I attempted to make it functional with Arduino but faced challenges converting circular motion into linear movement. Finally, I got back to pencil and paper, creating a design resembling a lotus flower.
+
+![Screenshot](IMG_5471.png)
+![Screenshot](IMG_5472.png)
+![Screenshot](IMG_5477.png)
+![Screenshot](IMG_5478.png)
+![Screenshot](IMG_5547.png)
+![Screenshot](IMG_5548.png)
+![Screenshot](IMG_5517.png)
+![Screenshot](IMG_5528.png)
+![Screenshot](IMG_5545.png)
+![Screenshot](IMG_5546.png)
+
 
 ## Your key prototype
 My project is a flower-like device that alerts me if my roommates are in the shared space. Each room could have a device resembling a flower. It remains naturally open but closes when someone is detected outside. If more than two people (matching the number of my roommates) are detected, it vibrates to alert me of a greater threat.
 
-+ One photo of the paper prototype (can be gif animation, or static)
+![Screenshot](IMG_5540.png)
 + One 3D image 
 + (Optional) Audio
 + (Optional) Video
 
 ## User scenario
-+ Your storyboard showing how your prototype can be used 
+![Screenshot](story_board.png)
 
 ## Next Steps
 In one sentence, describe what you will focus on next.
