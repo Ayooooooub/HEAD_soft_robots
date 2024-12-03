@@ -3,7 +3,7 @@
 - Master Media Design + O2R
 
 ## Whispers
-How can I relieve myself from potential encounters with my roommates in our shared flat? How can I avoir them when I feel like I dont want to see them
+How can I relieve myself from potential encounters with my roommates in our shared flat? How can I avoid them when I feel like I don’t want to see them?
 
 ## Pitch
 My flower device signals if roommates are in shared spaces, it closes when detected, vibrates for crowds.
@@ -26,7 +26,7 @@ I first explored various opening mechanisms to metaphorize states of safety and 
 ![Screenshot](IMG_5546.png)
 
 
-## Your key prototype
+## Key prototype
 My project is a flower-like device that alerts me if my roommates are in the shared space. Each room could have a device resembling a flower. It remains naturally open but closes when someone is detected outside. If more than two people (matching the number of my roommates) are detected, it vibrates to alert me of a greater threat.
 
 ![Screenshot](IMG_5540.png)
@@ -38,4 +38,4 @@ My project is a flower-like device that alerts me if my roommates are in the sha
 ![Screenshot](story_board.png)
 
 ## Next Steps
-In one sentence, describe what you will focus on next.
+I’ll focus on finalizing a form that can mechanically open and close. Once printed, I’ll integrate the rest with Arduino.
