@@ -2,7 +2,7 @@
 - Soft Robots
 - Master Media Design + O2R
 
-## Who's There?
+## "Who's There?"
 How can I relieve myself from potential encounters with my roommates in our shared flat? How can I avoid them when I feel like I don’t want to see them?
 
 ## Pitch
