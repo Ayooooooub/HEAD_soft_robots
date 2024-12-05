@@ -30,7 +30,7 @@ Perhaps the flowers could comunicate in a way to add interactivity/rng/unstallne
 
 Could be on your desk or bedside table or even on the wall
 
-Pictures of how to hang (myself) a flower on the wall or next to it
+Pictures of how to hang a flower on the wall or next to it
 ![Screenshot](untitled_design1.jpeg)
 
 Pictures to have a single flower in a recepient (vase)
