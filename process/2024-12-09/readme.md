@@ -24,6 +24,4 @@ The twist: if I spend too much time outside and the wild flower detects me often
 So yeah this can be a way to care and add interactivity with the flower.
 
 
-Fuck it idk man
-
 So basically I have two arduino boards for my flowers, with 2 motion sensors with two servo motors with twice the effin mecachism that permits it to transform rotaion in linear movement and thats pretty much it.
