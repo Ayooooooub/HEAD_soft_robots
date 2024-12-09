@@ -44,3 +44,4 @@ Like for example talking to the flower to get more acurate info.
 + touching/tapping
 + motion sensor, making movement to comunicate
 + 
+
