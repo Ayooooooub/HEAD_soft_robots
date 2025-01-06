@@ -19,7 +19,7 @@ I keep the simple interaction with the motion sensor to detect roommates, as alr
 
 For example: if I have two flowers, one in my room (the "tamed" flower) and one in the common space (the "wild" flower), the wild one sends motion data to the tamed one, so I still know if someone is outside.  
 
-The twist: if I spend too much time outside and the wild flower detects me often, the tamed flower gets "jealous" and starts giving unreliable data. This means I need to spend time with the tamed flower to "fix" it. It can tell me apart from my roommates because it detects me when I'm in my room or I have to actively manifest my presence to it. 
+The twist: if I spend too much time outside and the wild flower detects me often, the tamed flower gets "jealous" and starts giving unreliable data. This means I need to spend time with the tamed flower to "fix" it. It can tell me apart from my roommates because it detects me when I'm in my room or I have to actively manifest my presence to it.
 
 So yeah this can be a way to care and add interactivity with the flower.
 
